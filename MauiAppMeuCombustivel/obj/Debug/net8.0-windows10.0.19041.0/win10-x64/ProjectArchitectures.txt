@@ -1,0 +1,1 @@
+C:\Users\Pichau\Documents\Dev\.NET Maui\MauiAppMeuCombustivel\MauiAppMeuCombustivel.csproj;x64
