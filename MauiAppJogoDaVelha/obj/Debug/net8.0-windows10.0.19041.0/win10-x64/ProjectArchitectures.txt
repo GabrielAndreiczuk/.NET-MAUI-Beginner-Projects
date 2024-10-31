@@ -1,0 +1,1 @@
+C:\Users\Pichau\Documents\Dev\.NET Maui\MauiAppJogoDaVelha\MauiAppJogoDaVelha.csproj;x64
