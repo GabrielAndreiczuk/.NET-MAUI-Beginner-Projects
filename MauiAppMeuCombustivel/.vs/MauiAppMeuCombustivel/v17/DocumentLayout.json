@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -34,8 +30,7 @@
               "RelativeToolTip": "MainPage.xaml",
               "ViewState": "AQIAAAIAAAAAAAAAAADwvxQAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-30T16:39:19.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T16:39:19.691Z"
             },
             {
               "$type": "Document",
@@ -45,7 +40,7 @@
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\Pichau\\Documents\\Dev\\.NET Maui\\MauiAppMeuCombustivel\\MainPage.xaml.cs",
               "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBcAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T16:32:29.861Z",
               "EditorCaption": ""

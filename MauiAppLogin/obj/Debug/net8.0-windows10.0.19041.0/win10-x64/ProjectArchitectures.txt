@@ -1,0 +1,1 @@
+C:\Users\Pichau\Documents\Dev\.NET Maui\MauiAppLogin\MauiAppLogin.csproj;x64
