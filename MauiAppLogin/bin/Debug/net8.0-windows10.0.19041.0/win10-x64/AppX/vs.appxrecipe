@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Pichau\Documents\Dev\.NET Maui\MauiAppLogin\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-11-06T18:58:23.232</Modified>
+      <Modified>2024-11-07T02:44:22.298</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Pichau\Documents\Dev\.NET Maui\MauiAppLogin\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-11-06T18:58:22.716</Modified>
+      <Modified>2024-11-07T02:44:21.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Pichau\Documents\Dev\.NET Maui\MauiAppLogin\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppLogin.runtimeconfig.json">
       <PackagePath>MauiAppLogin.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Pichau\Documents\Dev\.NET Maui\MauiAppLogin\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppLogin.dll">
       <PackagePath>MauiAppLogin.dll</PackagePath>
-      <Modified>2024-11-06T18:58:10.169</Modified>
+      <Modified>2024-11-07T02:44:17.132</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Pichau\Documents\Dev\.NET Maui\MauiAppLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiAppLogin.exe</PackagePath>
-      <Modified>2024-11-06T18:58:10.215</Modified>
+      <Modified>2024-11-07T02:44:17.397</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Pichau\Documents\Dev\.NET Maui\MauiAppLogin\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -288,7 +288,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Pichau\Documents\Dev\.NET Maui\MauiAppLogin\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppLogin.deps.json">
       <PackagePath>MauiAppLogin.deps.json</PackagePath>
-      <Modified>2024-11-06T18:58:20.826</Modified>
+      <Modified>2024-11-07T02:44:19.877</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Pichau\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.44\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
